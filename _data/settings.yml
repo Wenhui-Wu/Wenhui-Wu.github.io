@@ -4,6 +4,10 @@ title: 'Lib: W'
 #logo: logo.svg # You can add own logo.
 description: A personal homepage and blog of Wenhui Wu
 
+lang: en-US
+
+timezone: Asia/Shanghai
+
 #-------------------------------
 
 # Author Settings
