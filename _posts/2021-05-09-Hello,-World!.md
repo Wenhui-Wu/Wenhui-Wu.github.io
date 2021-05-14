@@ -2,14 +2,13 @@
 layout: post
 title: Hello, World!
 date: 2021-05-09 00:55:00 +0800
-tags: highlighted chn eng life
+tags: HIGHLIGHTED CN EN
 image: umbrella.jpeg
 ---
 
 >Motivation and future plan about my blog. / 
 >
 >建立博客的动机和博客建设计划。
->
 ---
 
 
