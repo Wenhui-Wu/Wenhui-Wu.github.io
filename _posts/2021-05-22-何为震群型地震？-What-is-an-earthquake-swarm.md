@@ -6,7 +6,9 @@ image: dali.jpeg
 tags: HIGHLIGHTED CN EN TRANSLATION 
 ---
 
-> 本文是[USGS的**What is an earthquake swarm?**](https://www.usgs.gov/center-news/what-earthquake-swarm)一文中部分段落的中文翻译。请点击链接来浏览英语全文。/ This is a translation of several selected paragraphs from [**What is an earthquake swarm?** on USGS](https://www.usgs.gov/center-news/what-earthquake-swarm). Please refer to the link for the full English text.
+> 本文是[USGS的**What is an earthquake swarm?**](https://www.usgs.gov/center-news/what-earthquake-swarm)一文中部分段落的中文翻译。请点击链接来浏览英语全文。
+> / 
+> This is a translation of several selected paragraphs from [**What is an earthquake swarm?** on USGS](https://www.usgs.gov/center-news/what-earthquake-swarm). Please refer to the link for the full English text.
 
 # 译序 / Preface
 经过半个晚上的提心吊胆，终于上车准备合眼。睡前在微博上看到[@风云梦远](https://www.weibo.com/u/3296569781?mod=like&is_all=1)提到我正经历的地震属于震群型，在求知欲和求生欲的双重作用下终于在网上找到一篇由浅入深介绍震群型地震的文章，稀里糊涂向作者申请了翻译和搬运就睡了。没想到天亮之后~~ 是的！活着见到明天的太阳了 ~~收到了作者的许可。于是带着重生的喜悦迅速写就了这篇小翻译，希望能和大家分享一些有关地震的知识。
