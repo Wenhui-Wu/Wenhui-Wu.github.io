@@ -3,7 +3,7 @@ layout: post
 title: 何为震群型地震？/ What is an earthquake swarm?
 date: 2021-05-22 07:30:00 +0800
 image: dali.jpeg
-tags: HIGHLIGHTED CHN ENG TRANSLATION 
+tags: HIGHLIGHTED CN EN TRANSLATION 
 ---
 
 > 本文是[USGS的**What is an earthquake swarm?**](https://www.usgs.gov/center-news/what-earthquake-swarm)一文中部分段落的中文翻译。请点击链接来浏览英语全文。/ This is a translation of several selected paragraphs from [**What is an earthquake swarm?** on USGS](https://www.usgs.gov/center-news/what-earthquake-swarm). Please refer to the link for the full English text.
