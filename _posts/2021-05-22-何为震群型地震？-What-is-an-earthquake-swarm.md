@@ -11,7 +11,7 @@ tags: HIGHLIGHTED CN EN TRANSLATION
 > This is a translation of several selected paragraphs from [**What is an earthquake swarm?** on USGS](https://www.usgs.gov/center-news/what-earthquake-swarm). Please refer to the link for the full English text.
 
 # 译序 / Preface
-经过半个晚上的提心吊胆，终于上车准备合眼。睡前在微博上看到[@风云梦远](https://www.weibo.com/u/3296569781?mod=like&is_all=1)提到我正经历的地震属于震群型，在求知欲和求生欲的双重作用下终于在网上找到一篇由浅入深介绍震群型地震的文章，稀里糊涂向作者申请了翻译和搬运就睡了。没想到天亮之后~~ 是的！活着见到明天的太阳了 ~~收到了作者的许可。于是带着重生的喜悦迅速写就了这篇小翻译，希望能和大家分享一些有关地震的知识。
+经过半个晚上的提心吊胆，终于上车准备合眼。睡前在微博上看到[@风云梦远](https://www.weibo.com/u/3296569781?mod=like&is_all=1)提到我正经历的地震属于震群型，在求知欲和求生欲的双重作用下终于在网上找到一篇由浅入深介绍震群型地震的文章，稀里糊涂向作者申请了翻译和搬运就睡了。没想到天亮之后 ~~是的！活着见到明天的太阳了~~ 收到了作者的许可。于是带着重生的喜悦迅速写就了这篇小翻译，希望能和大家分享一些有关地震的知识。
 
 # 中文译文 / Chinese translation
 在我们给出震群型地震的定义、它区别于其他地震活动的特征以及震群型地震的形成过程[^1]之前，让我们先退一小步。许多地震具有一种并非震群型，而是主震-余震的主余型发震规律。在最简单的情况下，这种规律意味着在地震序列中先发生最大的地震，而后发生一系列小地震，而这些小地震的震级在几周到几十年的时间内慢慢消减。一般来说，震级最大的余震要比主震在震级上小一个震级单位[^2]。
