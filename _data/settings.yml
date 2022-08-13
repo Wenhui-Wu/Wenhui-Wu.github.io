@@ -12,8 +12,8 @@ description: A personal homepage and blog of Wenhui Wu
 author:
   name: Wenhui Wu
   image: 01.jpeg
-  say-hello: Hello, I’m <strong>Wenhui Wu</strong>
-  bio: Wenhui Wu, Bachelor of Engineering in <b>Traffic</b>, has great passion on <b>computer science</b>, <b>music</b>, <b>photography</b>, <b>traveling</b> and <b>video games</b>! This website runs as my bilingual blog, publishing my original articles concerning my interest. I am on my way to a versatile transportation researcher who also enjoys life outside the labs. </br></br>Please contact me at <a href="mailto:hi_wu@outlook.com">Hi_Wu@outlook.com</a> 
+  say-hello: Hello, I’m Wu.
+  bio: Welcome to my blog! I am a traffic engineering student. And I am interested in <b>computer science</b>, <b>music</b>, <b>photography</b>, <b>traveling</b> and <b>video games</b> as well! </br></br>Contact <a href="mailto:hi_wu@outlook.com">Hi_Wu@outlook.com</a> 
 
   #Social media links are remained undone
 
