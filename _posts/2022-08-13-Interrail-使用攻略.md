@@ -6,6 +6,7 @@ image:
 tags:
 - 生活
 - 旅行
+- HIGHLIGHTED
 ---
 
 这是一篇针对Interrail使用的不完全攻略。
