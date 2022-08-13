@@ -2,7 +2,7 @@
 layout: post
 title: Hello, World!
 date: 2021-05-09 00:55:00 +0800
-tags: CN EN
+tags: 生活
 image: umbrella.jpeg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Interrail 使用攻略
 date: 2022-08-13 11:46 +0200
-image:
+image: street.jpg
 tags:
 - 生活
 - 旅行
