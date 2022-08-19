@@ -9,6 +9,8 @@ tags:
 - HIGHLIGHTED
 ---
 
+*这篇攻略献给REIS的四位好朋友们：CY、JMY、WJH和WSP*
+
 这是一篇针对Interrail使用的不完全攻略。
 多亏朋友提醒，在Interrail打折的时候以274欧元入手了两个月的Global Pass。
 	因此有机会在暑假坐火车畅游欧洲，然后把使用的经验总结成这一篇攻略。
